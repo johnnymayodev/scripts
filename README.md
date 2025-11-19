@@ -1,6 +1,13 @@
 # Scripts
 
-### How To Run: 
+## Requirements:
+
+### Curl
+```bash
+apt install curl -y
+```
+
+## How To Run: 
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/johnnymayodev/scripts/refs/heads/main/<path>/<script>.sh | bash
