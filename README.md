@@ -26,3 +26,9 @@ Install Docker with Docker Compose
 ```bash
 curl -fsSL https://raw.githubusercontent.com/johnnymayodev/scripts/refs/heads/main/tools/docker/install.sh | bash
 ```
+
+Uninstall Docker on MacOS
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/johnnymayodev/scripts/refs/heads/main/tools/docker/uninstall_macos.sh | bash
+```
